@@ -10,4 +10,4 @@ For using the project:
 
 
 **DEMO**
-![blog1](blog1.png)
+![](blog1.png)
