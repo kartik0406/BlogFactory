@@ -7,3 +7,7 @@ For using the project:
 4. Run commands: npm install
                  nodemon app.js
 5. The server started locally at the port shown on terminal.
+
+
+**DEMO**
+![blog1](blog1.png)
