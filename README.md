@@ -9,5 +9,6 @@ For using the project:
 5. The server started locally at the port shown on terminal.
 
 
-**DEMO**
+**DEMO IMAGES**
 ![](https://github.com/kartik0406/BlogFactory/blob/master/blog1.PNG)
+https://github.com/kartik0406/BlogFactory/blob/master/blog2.PNG
