@@ -10,4 +10,4 @@ For using the project:
 
 
 **DEMO**
-![](blog1.png)
+![](https://github.com/kartik0406/BlogFactory/blob/master/blog1.PNG)
