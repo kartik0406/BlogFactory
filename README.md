@@ -11,6 +11,6 @@ For using the project:
 
 **DEMO IMAGES**
 ![](https://github.com/kartik0406/BlogFactory/blob/master/blog1.PNG)
-![](https://github.com/kartik0406/BlogFactory/blob/master/img1.PNG)
-![](https://github.com/kartik0406/BlogFactory/blob/master/img2.PNG)
-![](https://github.com/kartik0406/BlogFactory/blob/master/img3.PNG)
+![](https://github.com/kartik0406/BlogFactory/blob/master/img1.png)
+![](https://github.com/kartik0406/BlogFactory/blob/master/img2.png)
+![](https://github.com/kartik0406/BlogFactory/blob/master/img3.png)
